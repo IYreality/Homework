@@ -1,0 +1,4 @@
+EM
+SVM
+CNN
+KNN
